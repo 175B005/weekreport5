@@ -6,4 +6,4 @@
 [](http://techblog.sega.jp/entry/2018/03/26/100000)
 
 
-[前](https://github.com/175B005/weekreport3) | [次](https://github.com/175B005/weekreport5)
+[前](https://github.com/175B005/weekreport4) | [次](https://github.com/175B005/weekreport6)
