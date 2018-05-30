@@ -3,10 +3,10 @@
 
 --- 
 
-||使いやすさ|header2|header3|
-||:--|--:|:--:|
-||align left|align right|align center|
-||a|b|c| 
+|使いやすさ|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c| 
 
 ---
 
