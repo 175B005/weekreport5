@@ -3,11 +3,10 @@
 
 --- 
 
-| a | saca |  
-| asc | acacwcc |  
-| ac | s |  
-| as | ae |  
-| adwwcef | tfvd|  
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c| 
 
 ---
 
