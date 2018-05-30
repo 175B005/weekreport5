@@ -3,7 +3,8 @@
 
 --- 
 
-|xxx|DoragonBones|Unity Asset Anima2D||
+|xxx|DoragonBones|Unity Asset Anima2D|まだない|
+|:--:|:--:|:--:|:--:|
 |操作|||
 |機能|||
 |Export|||
