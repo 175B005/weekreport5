@@ -3,10 +3,10 @@
 
 --- 
 
-|dc|使いやすさ|header2|header3|
-|ac|:--|--:|:--:|
-|csc|align left|align right|align center|
-|ac|a|b|c| 
+|xxx|DoragonBones|Unity Asset Anima2D||
+|操作|||
+|機能|||
+|Export|||
 
 ---
 
