@@ -5,10 +5,10 @@
 
 |xxx|DoragonBones|Unity Asset Anima2D|まだない|
 |:--:|:--:|:--:|:--:|
-|操作|earvcrae   cwwec   ecwcwec||-|
+|操作|wdw|efeew|ewfwe|fwfw|-|
 |機能|||-|
 |Export|||-|
-|総合|☆☆☆☆|☆☆☆☆☆|☆|
+|総合|☆☆☆☆|☆☆☆☆☆|-|
 
 ---
 
