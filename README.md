@@ -2,7 +2,7 @@
 # 2DSprite Tools 簡単比較 
 ---
 
-[![](https://raw.githubusercontent.com/175B005/weekreport5/master/2018-05-30%20(1).png)]()[![](https://raw.githubusercontent.com/175B005/weekreport5/master/2018-05-30%20(2).png)]()
+[![](https://raw.githubusercontent.com/175B005/weekreport5/master/2018-05-30%20(1).png)]()   [![](https://raw.githubusercontent.com/175B005/weekreport5/master/2018-05-30%20(2).png)]()
 
 --- 
 
